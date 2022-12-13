@@ -1,1 +1,1 @@
-echo "Training on deployment stage webhook"
+echo "Training on deployment stage webhook."
